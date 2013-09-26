@@ -11,6 +11,7 @@
     <div>
     <h1>Home Page</h1>
     <h2> new home page</h2>
+    <p>thsi is home</p>
     </div>
     </form>
 </body>
